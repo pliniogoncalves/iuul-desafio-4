@@ -27,11 +27,13 @@
             "styles": [
               "@angular/material/prebuilt-themes/pink-bluegrey.css",
               "../conversor-moedas/node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "../conversor-moedas/src/assets/css/styles.css",
               "src/styles.css"
             ],
             "scripts": [
               "../conversor-moedas/node_modules/jquery/dist/jquery.js",
-              "../conversor-moedas/node_modules/bootstrap/dist/js/bootstrap.min.js"
+              "../conversor-moedas/node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "../conversor-moedas/src/assets/js/scripts.js"
             ]
           },
           "configurations": {
